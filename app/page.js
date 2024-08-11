@@ -105,7 +105,7 @@ export default function Home() {
         {/* Header Section */}
         <Box p={2} bgcolor="primary.main" borderRadius={2}>
           <Typography variant="h6" color="white">Headstarter Support Assistant</Typography>
-          <Typography variant="body2" color="white">I'm here to assist you with any questions or issues related to SWE. How can I help you today?</Typography>
+          <Typography variant="body2" color="white">Im here to assist you with any questions or issues related to SWE. How can I help you today?</Typography>
         </Box>
 
         {/* Chat Section */}
